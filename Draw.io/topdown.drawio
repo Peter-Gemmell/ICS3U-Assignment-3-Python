@@ -88,7 +88,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="25" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;rounded=0;" edge="1" parent="1" target="24">
+                <mxCell id="25" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;rounded=0;" parent="1" target="24" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="590" y="247" as="sourcePoint"/>
                         <mxPoint x="750" y="301" as="targetPoint"/>
@@ -104,10 +104,10 @@
                 <mxCell id="9" value="Get number_1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="70" y="300" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="11" value="print &quot; #1 is smaller than # 2&quot;&lt;br&gt;print &quot; #2 is bigger than #1&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="11" value="&lt;span&gt;print &quot; number_1 is larger than number_2.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="430" y="310" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="13" value="If number_1 &amp;gt; number_2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="13" value="elseIf number_1 &amp;gt; number_2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="340" y="410" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="15" value="&lt;span&gt;If number_1 &amp;lt; number_2&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -119,10 +119,10 @@
                 <mxCell id="19" value="Get number_2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="210" y="300" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="22" value="print &quot; #1 is bigger than #2&quot;&lt;br&gt;print &quot;number #1 is smaller than #2&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="22" value="&lt;span&gt;print &quot; number_2 is larger than number_1&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="560" y="310" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="24" value="print &quot;#1 is equal to # 2&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="24" value="&lt;span&gt;print &quot;number_1 is == number_2&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="690" y="310" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
